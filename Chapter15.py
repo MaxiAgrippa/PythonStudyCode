@@ -40,6 +40,9 @@ def main():
     print('close')
     db.close()
 
+    # Task 02
+    # Database Interface
+
 
 if __name__ == '__main__':
     main()
